@@ -45,7 +45,9 @@
     "resolve-url-loader": "^1.4.4",
     "sass-loader": "^4.0.0",
     "style-loader": "^0.13.1",
-    "node-sass": "^3.8.0"
+    "node-sass": "^3.8.0",
+    "postcss-loader": "^0.9.1",
+    "autoprefixer": "^6.3.7"
   },
   "peerDependencies": {
     "@easy-webpack/core": "*"
